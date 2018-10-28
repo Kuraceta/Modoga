@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/Dependencias/MinePag.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/Dependencias/NametagEdit.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/Dependencias/PermissionsEx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/Dependencias/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo/Desktop/Modoga Kits/Dependencias/GrupoAPI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

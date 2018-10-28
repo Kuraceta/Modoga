@@ -1,0 +1,209 @@
+# Data base
+MySQL:
+  User: mc21
+  Password: a7c2448cd9
+  host: 149.56.29.162
+  Port: '3306'
+  Tabela: KitPvP
+  Database: mc21
+  
+Grupo:
+  Dono:
+    Comandos: 
+    - 'sc'
+    - 'gm'
+    - 'gamemode'
+    - 'tp'
+    - 'tpall'
+    - 'eco'
+    - 'grupo'
+    - 'tempgrupo'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'set'
+    - 'setarena'
+    - 'skit'
+    - 'alterar'
+    - 'admin'
+    - 'bc'
+    - 'npc'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: true
+  Gerente:
+    Comandos: 
+    - 'sc'
+    - 'bc'
+    - 'gm'
+    - 'gamemode'
+    - 'tp'
+    - 'tpall'
+    - 'eco'
+    - 'tempgrupo'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'set'
+    - 'setarena'
+    - 'skit'
+    - 'admin'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: true
+  Moderador:
+    Comandos: 
+    - 'sc'
+    - 'gm'
+    - 'gamemode'
+    - 'tp'
+    - 'tpall'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'admin'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: false
+  Administrador:
+    Comandos: 
+    - 'sc'
+    - 'gm'
+    - 'bc'
+    - 'gamemode'
+    - 'tp'
+    - 'tpall'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'skit'
+    - 'admin'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: true
+  Trial:
+    Comandos: 
+    - 'sc'
+    - 'gm'
+    - 'gamemode'
+    - 'tp'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'admin'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: false
+  Ajudante:
+    Comandos: 
+    - 'sc'
+    - 'chat'
+    - 'fly'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: false
+    VerReportes: false
+  Youtuber+:
+    Comandos: 
+    - 'sc'
+    - 'gm'
+    - 'gamemode'
+    - 'tp'
+    - 'chat'
+    - 'fly'
+    - 'limpar'
+    - 'admin'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: true
+    VerReportes: true
+    QuebrarBlocos: false
+  Youtuber:
+    Comandos: 
+    - 'chat'
+    - 'fly'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: false
+    VerReportes: false
+    QuebrarBlocos: false
+  Pro:
+    Comandos: 
+    - 'fly'
+    Kits:
+    - '*'
+    ChatColorido: true
+    Voar: true
+    VerAntiCheat: false
+    VerReportes: false
+    QuebrarBlocos: false
+  MVP:
+    Comandos: []
+    Kits:
+    - 'Achilles'
+    - 'Ajnin'
+    - 'Monk'
+    - 'Ninja'
+    - 'Gladiator'
+    - 'Phanton'
+    - 'Quickdrop'
+    - 'Thor'
+    - 'Viper'
+    - 'Sumo'
+    ChatColorido: false
+    Voar: false
+    VerAntiCheat: false
+    VerReportes: false
+    QuebrarBlocos: false
+  Light:
+    Comandos: []
+    Kits:
+    - 'Achilles'
+    - 'Monk'
+    - 'Ninja'
+    - 'Thor'
+    - 'Viper'
+    ChatColorido: false
+    Voar: false
+    VerAntiCheat: false
+    VerReportes: false
+    QuebrarBlocos: false
+  Membro:
+    Comandos: []
+    Kits: []
+    ChatColorido: false
+    Voar: false
+    VerAntiCheat: false
+    VerReportes: false
+    QuebrarBlocos: false
+Mensagens:
+- '&fTesteee'
+- '&eOiii'
+- '&dVisite o Site seusite.com'
+- '&2Visite nossa Loja sualoja.com'

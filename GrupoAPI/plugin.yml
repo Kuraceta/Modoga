@@ -1,0 +1,8 @@
+name: GroupAPI
+version: 1.0
+main: main
+author: Kuraceta
+commands:
+  grupo:
+  tempgrupo:
+  grupos:
